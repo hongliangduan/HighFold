@@ -17,6 +17,7 @@ bashCopy highfold/
 ├── utils/              # construction of CycPOEM, combination of disufide bridges and metrics
 ├── LICENSE             # license file
 └── README.md           # readme
+└── HighFold_data       # HighFold_data is the dataset used in our work.
 ```
 
 ## Instructions
